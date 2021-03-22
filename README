@@ -1,6 +1,6 @@
 开发中常需要用到的一些python脚本文件，相比于c++，方便又快捷。分为以下几个功能块，持续扩展：
   1. 参数解析 ————　cmd_argparse_demo
-  2. 作/输入输出　————　file_IO_demo
+  2. file输入输出　————　file_IO_demo
   3. 可视化　————　matplotlib_demo
   4. 数据统计　————　numpy_demo
   5. 正则表达式(文本信息提取)　————　regex_demo
